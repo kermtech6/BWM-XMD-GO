@@ -15,7 +15,7 @@
     "baileys-md",
     "md-bot"
   ],
-  "documentation-link": "https://pair-session-kermv4-pair.onrender.com",
+  "documentation-link": "https://main.bwmxmd.co.ke/scanner",
   "success_url": "/",
   "env": {
     "SESSION": {
